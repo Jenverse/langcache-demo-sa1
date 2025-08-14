@@ -1,0 +1,16 @@
+# Core dependencies for LangCache Demo
+openai>=1.0.0
+langcache>=0.0.1
+streamlit>=1.28.0
+python-dotenv>=1.0.0
+redis>=5.0.0
+requests>=2.31.0
+
+# For metrics and visualization
+plotly>=5.17.0
+pandas>=2.0.0
+
+# For development and testing
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
