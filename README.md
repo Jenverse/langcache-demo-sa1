@@ -1,5 +1,4 @@
-# LangCache Integration Demo for Solution Architects
-
+# LangCache Integration Demo 
 This repository is focused on **integrating LangCache with your LLM applications** to add intelligent semantic caching, reduce costs, and improve response times.
 
 ## 🎯 Purpose
